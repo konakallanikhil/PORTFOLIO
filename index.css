@@ -1,0 +1,150 @@
+.section1{
+    background-color: white;
+    padding: 5px;
+    display: flex;
+    justify-content:left;
+    align-items: center;
+}
+.head1{
+    padding: 20px;
+    padding-left: 60px;
+}
+.google{
+    height: 30px;
+}
+.image{
+    height: 35px;
+}
+#cross{
+    height: 15px;
+    margin-bottom: 3px;
+}
+#tally{
+    height: 25px;
+    margin-bottom: 3px;
+}
+.setting{
+    height: 25px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+}
+.flask{
+    height: 25px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+}
+.menu{
+    height: 25px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+}
+.email{
+  width: 18px; 
+  height: 18px; 
+  border-radius: 50%; 
+  background-color: darkgreen;
+  color: white;
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: bold;
+  font-family:'Roboto', sans-serif;
+  margin-bottom: 20px;
+  box-shadow: 1px 1px 1px 1px lightgray;
+}
+.head2{
+    position: relative;
+    width: 45%;
+    margin-left: 30px;
+}
+.head3{
+    margin-left: 620px;
+}
+.input {
+    width: 100%;
+    padding-right: 100px; 
+    box-sizing: border-box;
+    padding: 15px;
+    border-radius: 50px;
+    font-size: medium;
+    font-family: 'Roboto', sans-serif;
+    color: black;
+    border: 1px solid lightgrey;
+    box-shadow: 0px 1px 1px 1px lightgray;
+} 
+.image-container {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    display: flex;
+    align-items: center;
+    padding-right:25px;
+}
+::placeholder {
+    color: black;
+    opacity: 1; 
+}
+.section2{
+    display: flex;
+    justify-content:left;
+    align-items: center;
+    margin-left: 200px;
+}
+.section2Img{
+    height: 20px;
+}
+.section2Table{
+    padding: 15px;;
+}
+.tdresume {
+    color: blue;
+    text-decoration: underline;
+    font-family: 'Roboto', sans-serif;
+    text-underline-offset: 30px;
+    text-decoration-thickness: 3px;
+}
+#area{
+    text-decoration: none;
+}
+.heading{
+    font-family: 'Roboto', sans-serif;
+}  
+.subheading a{
+    font-family: 'Roboto', sans-serif;
+    color: green;
+}
+.profilepic{
+    height: 250px;
+    width: 400px;
+}
+.context{
+    font-family: 'Roboto', sans-serif;
+}
+.portion1{
+    width: 60%;
+}
+.portion2{
+    box-sizing: border-box;
+    width: 40%;
+    margin-left: 100px;
+}
+.section3{
+    margin-left:220px;
+    display: flex;
+}
+.portion2table {
+    border-collapse: collapse;
+}
+
+.portion2table td {
+    box-shadow: 0px 1px 1px 1px darkgray;
+}
+.safesearchbox{
+    margin-left: 670px;
+}
+#Statements{
+    background-color: white;
+    border: none;
+}

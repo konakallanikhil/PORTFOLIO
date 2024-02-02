@@ -1,0 +1,79 @@
+.tech{
+    width: 200px; 
+    height: 150px; 
+    padding: 10px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family:'Roboto', sans-serif;
+    margin-bottom: 20px;
+    margin:10px;
+    box-shadow: 0 1px 1px 1px lightslategray;
+}
+.tech:hover {
+    transform: scale(1.25s); 
+}
+.techTable{
+    margin-left:580px;
+}
+#html:hover {
+    background-color: orange; 
+}
+
+#css:hover {
+    background-color: lightskyblue; 
+}
+
+#javascript:hover {
+    background-color: lightgoldenrodyellow; 
+}
+#java:hover {
+    background-color: lightsteelblue; 
+}
+
+#net:hover {
+    background-color: violet; 
+}
+
+#sql:hover {
+    background-color: lightblue; 
+}
+#oracle:hover {
+    background-color: lightsalmon; 
+}
+
+#springboot:hover {
+    background-color: lightgreen; 
+}
+
+#api:hover {
+    background-color: lightslategray; 
+}
+.uses{
+    width: 200px; 
+    height: 150px; 
+    padding: 10px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family:'Roboto', sans-serif;
+    margin-bottom: 20px;
+    margin:10px;
+    box-shadow: 0 1px 1px 1px lightslategray;
+}
+.useTable{
+    margin-left:440px;
+}
+
+.uses img{
+    width: 60px;
+    height: 60px;
+}
+.tech img{
+    width: 60px;
+    height: 60px;
+}
